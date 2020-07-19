@@ -9,7 +9,6 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "yuya takei <takewell.dev@gmail.com> (https://github.com/takewell)",
   "license": "ISC",
   "dependencies": {
     "@types/next": "^9.0.0",
